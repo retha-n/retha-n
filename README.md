@@ -1,4 +1,4 @@
- 👋 Hi, I’m @retha-n
+ 👋 Hi, I’m Rethabile Ntlhane  @retha-n
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently mainly learning Back-end Web Development and some front-end too
 - 💞️ I’m free to collab on as any project, lets grow together!!
